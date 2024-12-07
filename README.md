@@ -8,6 +8,7 @@ The repository contains several Jupyter Notebooks, including:
  * **Understanding Feature Selection and Data Handling Methods.ipynb**, which demonstrates various feature selection techniques and data preprocessing methods for optimizing machine learning models.
  * **Understanding Model Explainability.ipynb**, where I examine approaches to interpret and explain machine learning model predictions for better decision-making.
  * **CMCI Visualization Project.py**, which visualizes data from the Cities and Municipalities Competitiveness Index (CMCI) to highlight trends and insights.
+ *  **Evaluating Intraregional Migration Patterns in the Philippines through Machine Learning Algorithms.ipynb**, a project that examines the factors influencing migration to provinces in the Philippines, using data from the 2018 National Migration Survey by the PSA
 
 The tools and technologies used across these projects include Python and R programming languages, libraries such as pandas, numpy, scikit-learn, matplotlib, and seaborn, as well as applications like Jupyter Notebook and various IDEs, such as VS Code.
 
