@@ -1,2 +1,2 @@
 # Data-Science-Projects-De-La-Salle-University
-A collection of data science projects completed during my studies at De La Salle University. Showcasing skills in data cleaning, visualization, modeling, and analysis using tools like Python, R, and SQL, this repository highlights my academic and practical experience in solving real-world data problems.
+This repository features data science projects from my studies at De La Salle University, where I combined economics and data science. It showcases my experience in data analysis, visualization, and modeling using tools in Python and R, focusing on practical applications to real-world economic and business issues.
